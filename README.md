@@ -110,9 +110,10 @@ I am a Data Analyst with over **4 years of experience** transforming business, m
 ### 📊 Estatísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=pennakaty&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Katy's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennakaty&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pennakaty&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennakaty&layout=compact&theme=tokyonight" />
 </p>
+
 ---
 
 ## 📫 Contact Me
