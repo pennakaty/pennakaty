@@ -17,7 +17,6 @@ I am a Data Analyst with over **4 years of experience** transforming business, m
         title="Based in Dublin, Ireland" 
         src="https://img.shields.io/badge/DUBLIN--IRELAND-006241?style=for-the-badge&logo=ireland&logoColor=white"
     />
-   ---
 
 ## 🔐 Data Governance & Impact
 
