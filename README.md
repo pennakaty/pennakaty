@@ -17,8 +17,7 @@ I am a Data Analyst with over **4 years of experience** transforming business, m
         title="Based in Dublin, Ireland" 
         src="https://img.shields.io/badge/DUBLIN--IRELAND-006241?style=for-the-badge&logo=ireland&logoColor=white"
     />
-   
----
+   ---
 
 ## 🔐 Data Governance & Impact
 
@@ -86,8 +85,7 @@ I am a Data Analyst with over **4 years of experience** transforming business, m
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" 
   />
-          " 
-/>
+
 <img 
     align="left" 
     alt="HubSpot" 
@@ -111,23 +109,15 @@ I am a Data Analyst with over **4 years of experience** transforming business, m
 ---
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pennakaty&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+---
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennakaty&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+### 📊 Estatísticas
 
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=pennakaty&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pennakaty&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" alt="Top Languages" height="180" />
 </p>
+
 ---
 
 ## 📫 Contact Me
